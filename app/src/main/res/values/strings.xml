@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Example: Multiple Style in TextView</string>
+    
+<string name="text_style">
+  <![CDATA[
+    Multiple style inside android textview: bold text: <b>bold</b>, italic text: <i>italic</i>, small font: <small>small text</small>,
+    font color: <font color="red">Text Color</font>, font color with bold text: <font color="red"><b>Bold with font color</b></font>
+  ]]>
+</string>
+
+</resources>
